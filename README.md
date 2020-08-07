@@ -2,10 +2,11 @@
 爬取B站个人信息
 
 功能：
-实现爬取哔哩哔哩个人信息，以及收藏视频相关信息，视频种所有弹幕
+实现爬取哔哩哔哩个人信息，以及收藏视频相关信息，视频中所有弹幕
+
 
 主要技术
-WebMagic + selenium + Spring Boo
+WebMagic + selenium + Spring Boot
 
 团队：小枫
 
